@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelAsyncTaskDemo", "Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlingDemo", "ExceptionHandlingDemo\ExceptionHandlingDemo.csproj", "{15B487EF-B725-42DA-8DBF-C3B192513070}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pitfall", "Pitfall\Pitfall.csproj", "{B31AC92E-3FA8-489B-AC4F-2BBF8AB2FB48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizationContextDemo", "SynchronizationContextDemo\SynchronizationContextDemo.csproj", "{B31AC92E-3FA8-489B-AC4F-2BBF8AB2FB48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
